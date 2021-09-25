@@ -1,0 +1,9 @@
+source 'https://rubygems.org'
+
+gem 'cucumber'
+gem 'rspec'
+gem 'capybara'
+gem 'selenium-webdriver'
+gem 'site_prism', '3.2'
+gem 'faker', '2.14.0'
+gem 'pry', '0.13.1'
